@@ -12,3 +12,15 @@ A collection of fun ideas for further refinements and implementation
 3. RemoteKeys
 
    Play a MIDI instrument from anywhere. Play a synthesizer or player piano remotely on a MIDI keyboard connected to a Web MIDI-enabled browser, and pipe the resulting audio / stream the video back to the player via WebRTC. Todo: address latency problems
+
+### Maybe's
+
+1. Method to detect a raster image's original, lower native resolution
+
+  * Uses
+    * can be used to thwart sites that cheats Google Image search results who rescaled / resampled a lower-resolution image onto a larger canvas
+    * can be used to determine what is the minimum canvas size needed to retain original image's details
+  * Challenges
+    * Todo: Test for "reasonable" sharpness? (e.g. large image but lacking in details expected)
+    * Todo: Test for smallest "sharp" feature?
+    * Todo: Test for digital compression artifact visible on enlarged image?
