@@ -16,6 +16,11 @@ A collection of fun ideas for further refinements and implementation
 4. BLE (Bluetooth Low Energy) MIDI Hub
 
    For times where creative flow excludes laptop computers, a handy box to route / merge (sum) / thru (pass-along) MIDI info received from various BLE-MIDI-enabled controllers, sound modules, and more. Capable of self-appoint or designating a specific MIDI device as the MIDI master clock. Low power consumption and simple to use.
+   
+5. DogEar
+
+   A device that notifies you when an ultrasonic sound of sufficient amplifitude is heard, records it, and option to play it back at a lower, audible pitch. For detection of device communication tones that are too high-pitched for the human ear to detect.
+
 
 
 ### Maybe's
