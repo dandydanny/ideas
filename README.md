@@ -21,6 +21,9 @@ A collection of fun ideas for further refinements and implementation
 
    A device that notifies you when an ultrasonic sound of sufficient amplifitude is heard, records it, and option to play it back at a lower, audible pitch. For detection of device communication tones that are too high-pitched for the human ear to detect.
 
+6. Blank Musician Needed
+
+   A collaborative, social music experience. A band gathering via real-time video conferencing technology. Need to weight various RTP streaming protocols for responsiveness vs. reliability. Thanks to @julianfresco for sparking this idea.
 
 
 ### Maybe's
