@@ -1,5 +1,8 @@
 # ideas
-A collection of fun ideas for further refinements and implementation
+A collection of fun ideas for further refinements, planning, and execution.
+
+
+> "Ideas are Cheap. Execution is Everything" - [Dereck Silvers](http://daringfireball.net/linked/2008/08/06/sivers), [Chris Sacca](https://twitter.com/sacca), [Casey Neistat](https://www.brainyquote.com/quotes/quotes/c/caseyneist726902.html), [Steve Jobs](http://daringfireball.net/linked/2011/11/15/parable-of-the-stones), and many others.
 
 1. Everdoc
 
