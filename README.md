@@ -2,7 +2,19 @@
 A collection of fun ideas for further refinements, planning, and execution.
 
 
-> "Ideas are Cheap. Execution is Everything" - [Dereck Silvers](http://daringfireball.net/linked/2008/08/06/sivers), [Chris Sacca](https://twitter.com/sacca), [Casey Neistat](https://www.brainyquote.com/quotes/quotes/c/caseyneist726902.html), [Steve Jobs](http://daringfireball.net/linked/2011/11/15/parable-of-the-stones), and many others.
+---
+
+
+> "Ideas are Cheap. Execution is Everything"
+
+* [Dereck Silvers](http://daringfireball.net/linked/2008/08/06/sivers)
+* [Chris Sacca](https://twitter.com/sacca), [Casey Neistat](https://www.brainyquote.com/quotes/quotes/c/caseyneist726902.html)
+* [Steve Jobs](http://daringfireball.net/linked/2011/11/15/parable-of-the-stones)
+* and many others.
+
+
+---
+
 
 1. Everdoc
 
@@ -27,6 +39,10 @@ A collection of fun ideas for further refinements, planning, and execution.
 6. Blank Musician Needed
 
    A collaborative, social music experience. A band gathering via real-time video conferencing technology. Need to weight various RTP streaming protocols for responsiveness vs. reliability. Thanks to @julianfresco for sparking this idea.
+
+
+---
+
 
 
 ### Maybe's
