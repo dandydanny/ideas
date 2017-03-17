@@ -21,7 +21,11 @@ A collection of fun ideas for further refinements and implementation
 
    A device that notifies you when an ultrasonic sound of sufficient amplifitude is heard, records it, and option to play it back at a lower, audible pitch. For detection of device communication tones that are too high-pitched for the human ear to detect.
 
-
+6. FatTrack
+   
+   Implement data persistance and wireless data sync (Google Sheets, API call) for the Omron scale to remove complexity in logging weight and body fat % numbers.
+   
+   
 
 ### Maybe's
 
