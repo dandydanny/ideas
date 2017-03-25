@@ -25,7 +25,12 @@ A collection of fun ideas for further refinements and implementation
    
    Implement data persistance and wireless data sync (Google Sheets, API call) for the Omron scale to remove complexity in logging weight and body fat % numbers.
    
+7. Feel It In Your Bonez
+
+   Tactile-based low frequency transducence for portable electronics. Although their small size limits the size of speakers that can be installed, allocating a portion of the spectral energy as moment of the enclosure may better convey information such as bass drum, beats, or perhaps SFX such as explosions in a small device.
    
+
+8. 
 
 ### Maybe's
 
