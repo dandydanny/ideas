@@ -34,6 +34,11 @@ A collection of fun ideas for further refinements and implementation
 
    Software mechanism to detect continuous spectral chroma (color) change from red to purple in an image or document. It should be agnostic to the direction of the chroma gradient such as left-to-right, down-to-up, etc.
 
+9. VelociKey (Visual MIDI)
+
+   Browser-based webapp to display MIDI information visually. Original conceived purpose is to display velocity magnitude as integer or a histogram graph, utlizing MIDI over BLE. This allows for testing of MIDI controllers at a music store and obtain information about a said MIDI controller (velocity curve, polyphonic aftertouch, etc) simply by using a mobile phone, instead of needing to ask the clerk to hook the controller up to one of the in-store computers.
+
+
 
 
 ### Maybe's
