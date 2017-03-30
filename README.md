@@ -30,7 +30,11 @@ A collection of fun ideas for further refinements and implementation
    Tactile-based low frequency transducence for portable electronics. Although their small size limits the size of speakers that can be installed, allocating a portion of the spectral energy as moment of the enclosure may better convey information such as bass drum, beats, or perhaps SFX such as explosions in a small device.
    
 
-8. 
+8. Rainbow Seeker
+
+   Software mechanism to detect continuous spectral chroma (color) change from red to purple in an image or document. It should be agnostic to the direction of the chroma gradient such as left-to-right, down-to-up, etc.
+
+
 
 ### Maybe's
 
