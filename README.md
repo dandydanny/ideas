@@ -13,7 +13,7 @@ A collection of fun ideas for further refinements and implementation
 
    Play a MIDI instrument from anywhere. Play a synthesizer or player piano remotely on a MIDI keyboard connected to a Web MIDI-enabled browser, and pipe the resulting audio / stream the video back to the player via WebRTC. Todo: address latency problems
 
-4. BLE (Bluetooth Low Energy) MIDI Hub
+4. BLE (Bluetooth Low Energy) MIDI Router / Hub
 
    For times where creative flow excludes laptop computers, a handy box to route / merge (sum) / thru (pass-along) MIDI info received from various BLE-MIDI-enabled controllers, sound modules, and more. Capable of self-appoint or designating a specific MIDI device as the MIDI master clock. Low power consumption and simple to use.
    
