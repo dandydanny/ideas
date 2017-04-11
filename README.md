@@ -39,6 +39,13 @@ A collection of fun ideas for further refinements and implementation
    Browser-based webapp to display MIDI information visually. Original conceived purpose is to display velocity magnitude as integer or a histogram graph, utlizing MIDI over BLE. This allows for testing of MIDI controllers at a music store and obtain information about a said MIDI controller (velocity curve, polyphonic aftertouch, etc) simply by using a mobile phone, instead of needing to ask the clerk to hook the controller up to one of the in-store computers.
 
 
+10. Password lifespan allowance based on password complexity
+
+   Instead of setting arbiturary limit of 6-12 characters, 1 uppercase, 1 lowercase, 1 number, and picking an answer for those pesky challenge-response questions like "What is your mother's maiden name" and "name of your first boy/girlfriend," I enforce a mandatory expiration date for that password. The length of its life time will be based on your password's difficulty.
+
+* Poor, easy-to-guess passwords: results in a shorter life
+* Strong, difficult-to-guess passwords: results in a longer life
+
 
 
 ### Maybe's
