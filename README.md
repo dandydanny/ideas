@@ -59,3 +59,5 @@ A collection of fun ideas for further refinements and implementation
     * Todo: Test for "reasonable" sharpness? (e.g. large image but lacking in details expected)
     * Todo: Test for smallest "sharp" feature?
     * Todo: Test for digital compression artifact visible on enlarged image?
+
+HTTPS push test.
