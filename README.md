@@ -47,6 +47,13 @@ A collection of fun ideas for further refinements and implementation
 * Strong, difficult-to-guess passwords: results in a longer life
 
 
+11. Research into common 2FA hardware
+   
+   After learning about successful social-engineering exploits against telco, and NIST no longer recommending SMS-based 2FA, hardware-based 2FA device remains as one of the few consumer-friendly way to protect against identity theft attacks and strengthen data security. A broader understanding of the mechanism will aid impleemntation of FIDO U2F and ensure best implementation practices.
+   
+* USB touch-activated: Yubikey 4 Nano
+* USB Fingerprint-activated: Kensington VeriMark™ Fingerprint Key, PQI My Lockey (why Windows 10 only?)
+* NFC based: Yubikey Neo, Feitian ePass
 
 ### Maybe's
 
