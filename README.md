@@ -22,7 +22,7 @@ A collection of fun ideas for further refinements and implementation
    A device that notifies you when an ultrasonic sound of sufficient amplifitude is heard, records it, and option to play it back at a lower, audible pitch. For detection of device communication tones that are too high-pitched for the human ear to detect.
 
 6. FatTrack
-   
+
    Implement data persistance and wireless data sync (Google Sheets, API call) for the Omron scale to remove complexity in logging weight and body fat % numbers.
    
 7. Feel It In Your Bonez
@@ -48,7 +48,7 @@ A collection of fun ideas for further refinements and implementation
 
 
 11. Research into common 2FA hardware
-   
+
    After learning about successful social-engineering exploits against telco, and NIST no longer recommending SMS-based 2FA, hardware-based 2FA device remains as one of the few consumer-friendly way to protect against identity theft attacks and strengthen data security. A broader understanding of the mechanism will aid impleemntation of FIDO U2F and ensure best implementation practices.
    
 * USB touch-activated: Yubikey 4 Nano
