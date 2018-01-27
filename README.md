@@ -41,19 +41,19 @@ A collection of fun ideas for further refinements and implementation
 
 10. Password lifespan allowance based on password complexity
 
-   Instead of setting arbiturary limit of 6-12 characters, 1 uppercase, 1 lowercase, 1 number, and picking an answer for those pesky challenge-response questions like "What is your mother's maiden name" and "name of your first boy/girlfriend," I enforce a mandatory expiration date for that password. The length of its life time will be based on your password's difficulty.
-
-Poor, easy-to-guess passwords: results in a shorter life
-Strong, difficult-to-guess passwords: results in a longer life
+	Instead of setting arbiturary limit of 6-12 characters, 1 uppercase, 1 lowercase, 1 number, and picking an answer for those pesky challenge-response questions like "What is your mother's maiden name" and "name of your first boy/girlfriend," I enforce a mandatory expiration date for that password. The length of its life time will be based on your password's difficulty.
+    
+	* Poor, easy-to-guess passwords: results in a shorter life
+	* Strong, difficult-to-guess passwords: results in a longer life
 
 
 11. Research into common 2FA hardware
 
-   After learning about successful social-engineering exploits against telco, and NIST no longer recommending SMS-based 2FA, hardware-based 2FA device remains as one of the few consumer-friendly way to protect against identity theft attacks and strengthen data security. A broader understanding of the mechanism will aid impleemntation of FIDO U2F and ensure best implementation practices.
+	After learning about successful social-engineering exploits against telco, and NIST no longer recommending SMS-based 2FA, hardware-based 2FA device remains as one of the few consumer-friendly way to protect against identity theft attacks and strengthen data security. A broader understanding of the mechanism will aid impleemntation of FIDO U2F and ensure best implementation practices.
    
-* USB touch-activated: Yubikey 4 Nano
-* USB Fingerprint-activated: Kensington VeriMark™ Fingerprint Key, PQI My Lockey (why Windows 10 only?)
-* NFC based: Yubikey Neo, Feitian ePass
+	* USB touch-activated: Yubikey 4 Nano
+	* USB Fingerprint-activated: Kensington VeriMark™ Fingerprint Key, PQI My Lockey (why Windows 10 only?)
+	* NFC based: Yubikey Neo, Feitian ePass
 
 ### Maybe's
 
@@ -67,4 +67,4 @@ Strong, difficult-to-guess passwords: results in a longer life
     * Todo: Test for smallest "sharp" feature?
     * Todo: Test for digital compression artifact visible on enlarged image?
 
-HTTPS push test. Test 2.
+HTTPS push test. Test 2 ;)
