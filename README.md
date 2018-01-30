@@ -58,6 +58,11 @@ A collection of fun ideas for further refinements and implementation
 12. BeatRug
 
 	Rugs with patterns based on customer-submitted Ableton drum step or MIDI sequences, or drum sequences of popular songs.
+
+13. ToneBlaster
+
+	Hardware MIDI sound module based on Sound Blaster Waveblaster-compatible romplers, e.g. DreamBlaster.
+
 	
 ### Maybe's
 
