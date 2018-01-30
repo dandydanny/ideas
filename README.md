@@ -55,6 +55,10 @@ A collection of fun ideas for further refinements and implementation
 	* USB Fingerprint-activated: Kensington VeriMark™ Fingerprint Key, PQI My Lockey (why Windows 10 only?)
 	* NFC based: Yubikey Neo, Feitian ePass
 
+12. BeatRug
+
+	Rugs with patterns based on customer-submitted Ableton drum step or MIDI sequences, or drum sequences of popular songs.
+	
 ### Maybe's
 
 1. Method to detect a raster image's original, lower native resolution
